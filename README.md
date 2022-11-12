@@ -9,6 +9,7 @@
 - [Files written:](#files-written)
 - [Results:](#results)
     - [Screenshots to the program:](#screenshots-to-the-program)
+    - [Spectrograms:](#spectrograms)
 
 <!-- MarkdownTOC -->
 # Shazam 
@@ -31,7 +32,9 @@ The program results are considered satisfying as it preserves the goal of giving
 
 ![Result 3:](results/result3.png)
 
-* Spectrograms:
+
+
+### Spectrograms:
   ![Result 4:](results/result4.png)
   ![Result 5:](results/result5.png) 
 
